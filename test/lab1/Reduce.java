@@ -4,6 +4,7 @@ public class Reduce {
     static void main() {
         System.out.println(reduce(100));
     }
+
     public static int reduce(int n) {
         int total = 0;
         while (n > 0) {

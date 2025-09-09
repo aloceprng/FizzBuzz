@@ -18,6 +18,4 @@ public class Multiples {
         }
         return total;
     }
-
-
 }
